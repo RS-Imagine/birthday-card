@@ -7,7 +7,7 @@ var config = {
         "漂亮的姐姐",  // 同上...
         "今天是你的生日哦",
         "第27个生日！",
-        "生日快乐~~🎉🎉🎉",
+        "姐姐生日快乐~~🎉🎉🎉",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -20,10 +20,10 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "漂亮的姐姐": "./imgs/nothing.jpg",
+        "漂亮的姐姐": "./imgs/sister.jpg",
         "今天是你的生日哦": "./imgs/shengri.jpeg",
-        "第27个生日！": "./imgs/nothing.jpg",
-        "生日快乐~~🎉🎉🎉": "./imgs/nothing.jpg"
+        "第27个生日！": "./imgs/sister.jpg",
+        "姐姐生日快乐~~🎉🎉🎉": "./imgs/sister.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
